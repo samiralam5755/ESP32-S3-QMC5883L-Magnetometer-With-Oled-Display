@@ -60,19 +60,7 @@ Many newer GY-271 / GY-273 boards labeled as "HMC5883L" or "QMC5883L" actually c
 
 ---
 
-## 📁 Repository Structure
 
-```
-├── ESP32_SH1106_Compass/
-│   └── ESP32_SH1106_Compass.ino     # Complete firmware with SH1106 OLED GUI + Serial
-├── QMC5883L_Serial_Compass/
-│   └── QMC5883L_Serial_Compass.ino  # Standalone Serial Monitor & Plotter Visualizer
-├── I2C_Scanner/
-│   └── I2C_Scanner.ino              # I2C Bus diagnostic tool
-├── README.md                        # Project documentation
-```
-
----
 
 ## 🛠️ Required Arduino Libraries
 
